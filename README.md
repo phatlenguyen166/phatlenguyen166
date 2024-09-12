@@ -1,4 +1,4 @@
-Fullstack Developer : {
+Fullstack Developer : {  
   Fontend : "ReactJS"  
   Backend : "NodeJS"
 }

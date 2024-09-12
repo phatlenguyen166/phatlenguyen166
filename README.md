@@ -1,5 +1,5 @@
 Fullstack Developer : {
-  Fontend : "ReactJS"
+  Fontend : "ReactJS"\n
   Backend : "NodeJS"
 }
 ## 🌐Socials

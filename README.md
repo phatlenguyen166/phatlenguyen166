@@ -1,7 +1,7 @@
 Fullstack Developer :  
-{  
- - Fontend : "ReactJS"  
- - Backend : "NodeJS"  
+{
+> Fontend : "ReactJS"  
+> Backend : "NodeJS"  
 }
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/hp.166) 
